@@ -12,31 +12,36 @@ About me
 ========
 
 I am a master student, major in Management Science and Engineering, at
-the [Antai College of Economics and Management](http://www.acem.sjtu.edu.cn/en/), Shanghai Jiao Tong
-University (SJTU), advised by Professor
+[Antai College of Economics and Management](http://www.acem.sjtu.edu.cn/en/),
+Shanghai Jiao Tong University (SJTU), advised by Professor
 [Huan Zheng](http://www.acem.sjtu.edu.cn/en/faculty/zhenghuan.html). My
 research interests include robust optimization, data-driven decision
 making, casual inference, and their applications in supply chain
-management and retailing. I am going to obtain my M.S. degree from
-Shanghai Jiao Tong University in March 2021, and I obtained B.S. degree
-from Xidian University in 2017.
+management and retailing. I am going to obtain my M.S. degree from SJTU
+in March 2021, and I obtained B.S. degree from Xidian University in
+2017\.
 
-Currently (Dec 2020), I am actively
-looking for a Ph.D. position, commencing in 2021 Fall, in Operations
-Management / Operations Research / Management Science.
+Currently (Dec 2020), I am actively looking for a Ph.D. position,
+commencing in 2021 Fall, in Operations Management / Operations Research
+/ Management Science.
 
 Education
 =========
-- M.S. in Management Science and Engineering, Shanghai Jiao Tong University, China, 2021
-- B.S. in Information Management and Information System, Xidian University, China, 2017
 
-Working Experience
-==================
+- M.S. in Management Science and Engineering, Shanghai Jiao Tong
+  University, China, 2021
+- B.S. in Information Management and Information System, Xidian
+  University, China, 2017
+
+Industrial Experience
+=====================
+
 - Algorithm Intern, Meituan, 2020.06 - 2020.09
 - Research Intern, Alibaba Group, 2020.03 - 2020.06
 
 Contact Me
 ==========
+
 Email: chendu2017@sjtu.edu.cn  
 Address: 1954 Huashan Road, Shanghai, 200030, China
 
@@ -70,25 +75,25 @@ Getting started
 ===============
 
 1. Register a GitHub account if you don't have one and confirm your
-   e-mail (required!)
+e-mail (required!)
 2. Fork
-   [this repository](https://github.com/academicpages/academicpages.github.io)
-   by clicking the "fork" button in the top right.
+[this repository](https://github.com/academicpages/academicpages.github.io)
+by clicking the "fork" button in the top right.
 3. Go to the repository's settings (rightmost item in the tabs that
-   start with "Code", should be below "Unwatch"). Rename the repository
-   "[your GitHub username].github.io", which will also be your website's
-   URL.
+start with "Code", should be below "Unwatch"). Rename the repository
+"[your GitHub username].github.io", which will also be your website's
+URL.
 4. Set site-wide configuration and create content & metadata (see below
-   -- also see
-   [this set of diffs](http://archive.is/3TPas) showing what files were
-   changed to set up
-   [an example site](https://getorg-testacct.github.io) for a user with
-   the username "getorg-testacct")
+-- also see
+[this set of diffs](http://archive.is/3TPas) showing what files were
+changed to set up
+[an example site](https://getorg-testacct.github.io) for a user with
+the username "getorg-testacct")
 5. Upload any files (like PDFs, .zip files, etc.) to the files/
-   directory. They will appear at
-   https://[your GitHub username].github.io/files/example.pdf.
+directory. They will appear at
+https://[your GitHub username].github.io/files/example.pdf.
 6. Check status by going to the repository settings, in the "GitHub
-   pages" section
+pages" section
 
 Site-wide configuration
 -----------------------
