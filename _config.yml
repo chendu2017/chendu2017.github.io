@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Du CHEN"
   avatar           : "profile.png"
-  bio              : "master student in Management Science"
+  bio              : "Master student in Management Science"
   location         : "Shanghai, China"
   employer         :
   pubmed           :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
