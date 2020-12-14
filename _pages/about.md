@@ -9,21 +9,23 @@ redirect_from:
 ---
 
 I am a master student, major in Management Science and Engineering, at
-the Antai College of Economics and Management, Shanghai Jiao Tong
+the [Antai College of Economics and Management](http://www.acem.sjtu.edu.cn/en/), Shanghai Jiao Tong
 University, advised by Professor
 [Huan Zheng](http://www.acem.sjtu.edu.cn/en/faculty/zhenghuan.html). My
 research interests include robust optimization, data-driven decision
 making, casual inference, and their applications in supply chain
 management and retailing. I am going to obtain my M.S. degree from
 Shanghai Jiao Tong University in March 2021, and I obtained B.S. degree
-from Xidian University in 2017. Currently (Dec 2020), I am actively
+from Xidian University in 2017.
+
+Currently (Dec 2020), I am actively
 looking for a Ph.D. position, commencing in 2021 Fall, in Operations
-Management and/or Operations Research.
+Management / Operations Research / Management Science.
 
 Education
 =========
-- M.S. in Management Science and Engineering, Shanghai Jiao Tong University, 2021
-- B.S. In Information Management and Information System, Xidian University, 2017
+- M.S. in Management Science and Engineering, Shanghai Jiao Tong University, China, 2021
+- B.S. in Information Management and Information System, Xidian University, China, 2017
 
 Working Experience
 ==================
@@ -32,7 +34,9 @@ Working Experience
 
 Contact Me
 ==========
+Email: chendu2017@sjtu.edu.cn
 
+Address: 1954 Huashan Road, Shanghai, 200030, China
 
 <!--
 Like many other Jekyll-based GitHub Pages templates, academicpages makes
