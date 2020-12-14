@@ -23,7 +23,7 @@ Industrial Experience
 Teaching Experience
 ===================
 - Guest Lecturer
-  - ``Applied Business Modeling'' (Graduate Elective), Prof. Ying Rong, 2019 Fall
+  - ''Applied Business Modeling'' (Graduate Elective), Prof. Ying Rong, 2019 Fall
     - Topics taught: Difference-in-Difference Model ([slides](https://raw.githubusercontent.com/chendu2017/selected_works/master/DiD.pdf)), Matching Method in Social Science ([slides](https://raw.githubusercontent.com/chendu2017/selected_works/master/Matching.pdf))
 
 - Teaching Assistant
