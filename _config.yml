@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home Page"
+title                    : "Du CHEN"
 title_separator          : "-"
 name                     : &name "Du CHEN"
 description              : &description "Master Student at Antai College of Economics and Management, Shanghai Jiao Tong University"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Du CHEN"
+  name             : "Du CHEN (陈督)"
   avatar           : "profile.JPG"
-  bio              : "Master student in Management Science"
+  bio              : "Master student in Management Science, Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         :
   pubmed           :

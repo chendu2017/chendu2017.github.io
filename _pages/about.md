@@ -1,12 +1,15 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+About me
+========
 
 I am a master student, major in Management Science and Engineering, at
 the [Antai College of Economics and Management](http://www.acem.sjtu.edu.cn/en/), Shanghai Jiao Tong
@@ -34,8 +37,7 @@ Working Experience
 
 Contact Me
 ==========
-Email: chendu2017@sjtu.edu.cn
-
+Email: chendu2017@sjtu.edu.cn  
 Address: 1954 Huashan Road, Shanghai, 200030, China
 
 <!--
