@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Du CHEN's Home Page"
+title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Du CHEN"
 description              : &description "Master Student at Antai College of Economics and Management, Shanghai Jiao Tong University"
