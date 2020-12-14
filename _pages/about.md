@@ -43,7 +43,7 @@ Industrial Experience
 Contact Me
 ==========
 
-Email: chendu2017@sjtu.edu.cn  
+Email: <chendu2017@sjtu.edu.cn>  
 Address: 1954 Huashan Road, Shanghai, 200030, China
 
 <!--
