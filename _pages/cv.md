@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 excerpt:
 permalink: /cv/
 author_profile: true
@@ -24,6 +24,7 @@ Teaching Experience
 ===================
 - Guest Lecturer
   - ''Applied Business Modeling'' (Graduate Elective), Prof. Ying Rong, 2019 Fall
+    - Topics taught: Difference-in-Difference Model ([slides](https://raw.githubusercontent.com/chendu2017/selected_works/master/DiD.pdf)), Matching Method in Social Science ([slides](https://raw.githubusercontent.com/chendu2017/selected_works/master/Matching.pdf))
 
 - Teaching Assistant
   - ''Dynamic Pricing & Revenue Management'' (Graduate Elective), Asst. Prof. Tong Wang, 2020 Fall
@@ -33,16 +34,24 @@ Teaching Experience
 
 Awards
 ======
+- Scholarship for High-quality Publications (the only master student among 23 winners), Antai SJTU, Dec 2020 \[[Link](http://www.acem.sjtu.edu.cn/phd/notices/46366.html)\]
+- Outstanding Students for Morality, Intelligence (3\% among 30000+ students in SJTU), Dec 2019
+- Academic Excellence Scholarship, SJTU, Sep 2017, Sep 2018
+- Third-class Scholarship, Xidian U, Sep 2014
+- National Bronze Prize, “Chuang Qingchun” Cup Competition for Business Plan, Jun 2014
+- Outstanding Student Cadres, Xidian U, May 2014
+- Advanced Individual in Scientific Activity, Xidian U, Dec 2013
 
-<!--
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Language
+  * Proficient in Python
+    * Familiar with optimization solvers: [Gurobi](https://www.gurobi.com), [Mosek](https://www.mosek.com), OR-tools
+    * Familiar with data analysis packages (pandas, numpy) and visualization packages (matplotlib, seaborn)
+  * Familiar with Java, Matlab, R, Hive SQL, LaTeX
+  * Familiar with [Git](https://git-scm.com/)
+<!--
+
 
 Publications
 ======

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -13,7 +13,7 @@ About me
 
 I am a master student, major in Management Science and Engineering, at
 the [Antai College of Economics and Management](http://www.acem.sjtu.edu.cn/en/), Shanghai Jiao Tong
-University, advised by Professor
+University (SJTU), advised by Professor
 [Huan Zheng](http://www.acem.sjtu.edu.cn/en/faculty/zhenghuan.html). My
 research interests include robust optimization, data-driven decision
 making, casual inference, and their applications in supply chain
