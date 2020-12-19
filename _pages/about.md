@@ -21,10 +21,9 @@ making, casual inference, and their applications in supply chain
 management and retailing. I am going to obtain my M.S. degree from SJTU
 in March 2021, and I obtained B.S. degree from Xidian University in
 2017\.
-
-Currently (Dec 2020), I am actively looking for a Ph.D. position,
+<!-- Currently (Dec 2020), I am actively looking for a Ph.D. position,
 commencing in 2021 Fall, in Operations Management / Operations Research
-/ Management Science.
+/ Management Science.-->
 
 Education
 =========
