@@ -16,9 +16,9 @@ Education
 Industrial Experience
 =====================
 - Algorithm Intern, Meituan (美团), 2020.06 - 2020.09
-   - Responsible for assisting the team in *Slow Meal* (出餐慢) dispatch improvement project. Responsible for preliminary data analysis on riders, restaurants, and waybills.
+   - Responsible for take-out order assignment problem. Responsible for assisting the team in *Slow Meal* (出餐慢) dispatch improvement project. Responsible for preliminary data analysis on riders, restaurants, and waybills.
 - Research Intern, Alibaba Group (阿里巴巴), 2020.03 - 2020.06
-  - Responsible for developing online recommendation algorithms. Responsible for offline simulation modules, conducting a numerical study, and analyzing results.
+  - Responsible for personalized recommendation algorithm design. Responsible for offline simulation modules, conducting a numerical study, and analyzing results.
 
 Teaching Experience
 ===================

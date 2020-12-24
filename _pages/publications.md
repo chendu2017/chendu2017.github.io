@@ -29,7 +29,7 @@ Working Papers
 - **Du Chen**, Yuanzheng Ma, Huan Zheng\*.
   [Value and Cost of
   Adopting Upfront Warehouses for Apparel Retailing Networks](https://raw.githubusercontent.com/chendu2017/selected_works/master/Value%20and%20Cost%20of%20Adopting%20Upfront%20Warehouses%20for%20Apparel%20Retailing%20Networks.pdf),
-  in preparation.
+  in preparation. [[Case Study](https://raw.githubusercontent.com/chendu2017/selected_works/master/Goodbaby%20Group%20The%20Upfront%20Warehouse%20Decision%20---%20Publish%20Version.pdf)]
 
 Publications
 ============
