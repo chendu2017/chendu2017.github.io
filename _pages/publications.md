@@ -38,7 +38,7 @@ Publications
   Xun Zhang, and Huan Zheng\*. (2020),
   [Inventory Based Recommendation Algorithms](https://raw.githubusercontent.com/chendu2017/selected_works/master/Inventory%20Based%20Recommendation%20Algorithms.pdf),
   accepted at *2020 IEEE International Conference on Big Data*,
-  forthcoming.
+  forthcoming. [[Slides](https://raw.githubusercontent.com/chendu2017/selected_works/master/bigdata2020-BigD293.pdf)]
   <details>
   <summary>Abstract</summary>
    We propose two recommendation algorithms for e-commerce with supply limits, a scenario that has not been intensively studied in the literature. One algorithm is a linear programming-based algorithm that uses historical data to approximate customer arrival patterns and generate shadow prices for inventories. The price of inventory can be introduced to existing recommendation algorithms to obtain adjusted rankings for recommendation. The other algorithm balances expected revenue and inventory consumption, and it uses a simple penalty function to reduce the chance of recommending low-inventory level products. Both algorithms are suitable for online recommendation systems for grocery stores with both online and offline channels, and can incorporate the features of perishable products, which need to be sold within limited time. Both algorithms are tested in a simulation using estimated parameters from Freshippo, a supermarket owned by the Alibaba Group. The numerical results show that both algorithms can generate higher sales volume and higher revenue.
