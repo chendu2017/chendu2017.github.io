@@ -10,11 +10,12 @@ redirect_from:
 
 Education
 =========
-- M.S. in Management Science and Engineering, Shanghai Jiao Tong University, China, 2021
-- B.S. in Information Management and Information System, Xidian University, China, 2017
+- M.S. in Management Science and Engineering, Shanghai Jiao Tong University, China, 2021.03
+- B.S. in Information Management and Information System, Xidian University, China, 2017.07
 
 Industrial Experience
 =====================
+- Operations Research Algorithm Engineer (Full-time), [DAMO Academy](https://damo.alibaba.com/?lang=en) (达摩院), Alibaba Group, 2021.04 -
 - Algorithm Intern, Meituan (美团), 2020.06 - 2020.09
    - Responsible for take-out order assignment problem. Responsible for assisting the team in *Slow Meal* (出餐慢) dispatch improvement project. Responsible for preliminary data analysis on riders, restaurants, and waybills.
 - Research Intern, Alibaba Group (阿里巴巴), 2020.03 - 2020.06
@@ -52,4 +53,4 @@ Skills
   * Familiar with [Git](https://git-scm.com/)
 
 
-Last updated: Dec 2020
+Last updated: April 2021

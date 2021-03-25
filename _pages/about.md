@@ -29,13 +29,13 @@ Education
 =========
 
 - M.S. in Management Science and Engineering, Shanghai Jiao Tong
-  University, China, 2021
+  University, China, 2021.03
 - B.S. in Information Management and Information System, Xidian
-  University, China, 2017
+  University, China, 2017.07
 
 Industrial Experience
 =====================
-
+- Operations Research Algorithm Engineer, DAMO Academy, Alibaba Group, 2021.04 -
 - Algorithm Intern, Meituan, 2020.06 - 2020.09
 - Research Intern, Alibaba Group, 2020.03 - 2020.06
 
