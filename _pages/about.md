@@ -39,8 +39,8 @@ Industrial Experience
 Contact Me
 ==========
 
-Email: <chendu2017@sjtu.edu.cn>  
-Address: 1954 Huashan Road, Shanghai, 200030, China
+Email: <xuehun.cd@alibaba-inc.com>  
+Address: No.969 West Wen Yi Road, Hangzhou, 311121, China
 
 <!--
 Like many other Jekyll-based GitHub Pages templates, academicpages makes

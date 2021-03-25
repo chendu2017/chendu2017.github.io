@@ -19,7 +19,7 @@ Working Papers
   </details>
 
 - Xun Zhang, **Du Chen**\*.
-  Distributionally Robust Scheduling with Random Release Time and Processing Time],
+  [Distributionally Robust Scheduling with Uncertain Release Time and Processing Time](https://raw.githubusercontent.com/chendu2017/selected_works/master/Distributionally%20Robust%20Scheduling%20Problem.pdf),
   under review at *International Journal of Production Research*.
   <details>
   <summary>Abstract</summary>

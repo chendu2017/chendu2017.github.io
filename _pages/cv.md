@@ -38,7 +38,8 @@ Awards
 - Scholarship for High-quality Publications (the only master student among 23 winners), Antai SJTU, Dec 2020 \[[Link](http://www.acem.sjtu.edu.cn/phd/notices/46366.html)\]
 - Outstanding Students (3% among 30000+ students in SJTU), Dec 2019
 - Academic Excellence Scholarship, SJTU, Sep 2017, Sep 2018
-<!--- Third-class Scholarship, Xidian U, Sep 2014
+<!--
+- Third-class Scholarship, Xidian U, Sep 2014
 - National Bronze Prize, “Chuang Qingchun” Cup Competition for Business Plan, Jun 2014
 - Outstanding Student Cadres, Xidian U, May 2014
 - Advanced Individual in Scientific Activity, Xidian U, Dec 2013
