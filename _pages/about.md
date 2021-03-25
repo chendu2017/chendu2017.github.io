@@ -18,7 +18,7 @@ Shanghai Jiao Tong University (SJTU), advised by Professor
 [Huan Zheng](http://www.acem.sjtu.edu.cn/en/faculty/zhenghuan.html). My
 research interests include robust optimization, data-driven decision
 making, casual inference, and their applications in supply chain
-management and retailing. I am going to obtain my M.S. degree from SJTU
+management and retailing. I obtained my M.S. degree from SJTU
 in March 2021, and I obtained B.S. degree from Xidian University in
 2017\.
 <!-- Currently (Dec 2020), I am actively looking for a Ph.D. position,
