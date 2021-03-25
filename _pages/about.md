@@ -12,15 +12,12 @@ redirect_from:
 About me
 ========
 
-I am a master student, major in Management Science and Engineering, at
-[Antai College of Economics and Management](http://www.acem.sjtu.edu.cn/en/),
+I am currently an Operations Research (OR) Algorithm Engineer at DAMO Academy, the research entity of Alibaba Group. Before joining Alibaba, I obtained Master's degree from [Antai College of Economics and Management](http://www.acem.sjtu.edu.cn/en/),
 Shanghai Jiao Tong University (SJTU), advised by Professor
 [Huan Zheng](http://www.acem.sjtu.edu.cn/en/faculty/zhenghuan.html). My
 research interests include robust optimization, data-driven decision
 making, casual inference, and their applications in supply chain
-management and retailing. I obtained my M.S. degree from SJTU
-in March 2021, and I obtained B.S. degree from Xidian University in
-2017\.
+management and retailing.
 <!-- Currently (Dec 2020), I am actively looking for a Ph.D. position,
 commencing in 2021 Fall, in Operations Management / Operations Research
 / Management Science.-->
