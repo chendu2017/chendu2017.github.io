@@ -16,7 +16,7 @@ I am currently an Operations Research (OR) Algorithm Engineer at DAMO Academy, t
 Shanghai Jiao Tong University (SJTU), advised by Professor
 [Huan Zheng](http://www.acem.sjtu.edu.cn/en/faculty/zhenghuan.html). My
 research interests include robust optimization, data-driven decision
-making, casual inference, and their applications in supply chain
+making, causal inference, and their applications in supply chain
 management and retailing.
 <!-- Currently (Dec 2020), I am actively looking for a Ph.D. position,
 commencing in 2021 Fall, in Operations Management / Operations Research
