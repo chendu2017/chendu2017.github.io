@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Du CHEN"
 title_separator          : "-"
 name                     : &name "Du CHEN"
-description              : &description "Algorithm Engineer at Alibaba"
+description              : &description "Phd Candidate at Nanyang Business School, Nanyang Technological University"
 url                      : https://chendu2017.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chendu2017.github.io"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Du CHEN (陈督)"
-  avatar           : "profile.JPG"
-  bio              : "Algorithm Engineer at Alibaba"
-  location         : "Hangzhou, China"
+  avatar           : "profile_small.JPG"
+  bio              : "Phd Candidate at NTU"
+  location         : "Singapore"
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "xuehun.cd@alibaba-inc.com"
+  email            : "chen1443@e.ntu.edu.sg"
   researchgate     :
   uri              :
   bitbucket        :
