@@ -10,6 +10,7 @@ redirect_from:
 
 Education
 =========
+- Ph.D in Operations Management, Nanyang Technological University, Singapore, 2021.07 -
 - M.S. in Management Science and Engineering, Shanghai Jiao Tong University, China, 2021.03
 - B.S. in Information Management and Information System, Xidian University, China, 2017.07
 

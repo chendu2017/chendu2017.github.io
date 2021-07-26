@@ -28,7 +28,7 @@ Education
 - M.S. in Management Science and Engineering, Shanghai Jiao Tong
   University, China, 2017.08 - 2021.03
 - B.S. in Information Management and Information System, Xidian
-  University, China, 2017.07
+  University, China, 2013.06 - 2017.07
 
 Industrial Experience
 =====================
@@ -39,7 +39,7 @@ Industrial Experience
 Contact Me
 ==========
 
-Email: <chen1443@e.ntu.edu.sg>
+Email: <chen1443@e.ntu.edu.sg>  
 Address: GH2 #07-52, 48 Nanyang Crescent, Singapore 637121
 
 <!--
