@@ -12,12 +12,12 @@ redirect_from:
 About me
 ========
 
-I am currently a PhD Student at Nanyang Business School, Nanyang Technological University, majoring in Operations Management (OM). It is my honor to be advised by Professor [TANG Qinshen](https://dr.ntu.edu.sg//cris/rp/rp00989). My
+I am currently a PhD Student at Nanyang Business School, Nanyang Technological University, majoring in Operations Management (OM). <!-- It is my honor to be advised by Professor [TANG Qinshen](https://dr.ntu.edu.sg//cris/rp/rp00989).--> My
 research interests include robust optimization, data-driven decision
 making, causal inference, and their applications in supply chain
 management and retailing. Before that, I was a full-time Operations Research (OR) Algorithm Engineer at DAMO Academy, the research entity of Alibaba Group. I obtained Master's degree from [Antai College of Economics and Management](http://www.acem.sjtu.edu.cn/en/),
 Shanghai Jiao Tong University (SJTU), advised by Professor
-[Huan Zheng](http://www.acem.sjtu.edu.cn/en/faculty/zhenghuan.html), and Bachelor's degree from Xidian University (西安电子科技大学).
+[Huan Zheng](http://www.acem.sjtu.edu.cn/en/faculty/zhenghuan.html), and Bachelor's degree in from Xidian University (西安电子科技大学).
 <!-- Currently (Dec 2020), I am actively looking for a Ph.D. position,
 commencing in 2021 Fall, in Operations Management / Operations Research
 / Management Science.-->

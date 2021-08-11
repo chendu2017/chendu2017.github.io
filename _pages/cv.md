@@ -17,12 +17,12 @@ Education
 Industrial Experience
 =====================
 - Operations Research Algorithm Engineer (Full-time), [DAMO Academy](https://damo.alibaba.com/?lang=en) (达摩院), Alibaba Group, 2021.04 - 2021.07
-  - Responsible for causal effect estimation algorithm research and applications in promotion activities on online retailing platforms.
+  <!-- - Responsible for causal effect estimation algorithm research and applications in promotion activities on online retailing platforms.-->
 
 - Algorithm Intern, Meituan (美团), 2020.06 - 2020.09
-   - Responsible for take-out order assignment problem. Responsible for assisting the team in *Slow Meal* (出餐慢) dispatch improvement project. Responsible for preliminary data analysis on riders, restaurants, and waybills.
+   <!-- - Responsible for take-out order assignment problem. Responsible for assisting the team in *Slow Meal* (出餐慢) dispatch improvement project. Responsible for preliminary data analysis on riders, restaurants, and waybills.-->
 - Research Intern, Alibaba Group (阿里巴巴), 2020.03 - 2020.06
-  - Responsible for personalized recommendation algorithm design. Responsible for offline simulation modules, conducting a numerical study, and analyzing results.
+  <!-- - Responsible for personalized recommendation algorithm design. Responsible for offline simulation modules, conducting a numerical study, and analyzing results.-->
 
 Teaching Experience
 ===================
