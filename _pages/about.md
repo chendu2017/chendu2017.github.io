@@ -12,29 +12,15 @@ redirect_from:
 About me
 ========
 
-I am currently a PhD Student at Nanyang Business School, Nanyang Technological University, majoring in Operations Management (OM). <!-- It is my honor to be advised by Professor [TANG Qinshen](https://dr.ntu.edu.sg//cris/rp/rp00989).--> My
+I am currently a PhD student at Nanyang Business School, Nanyang Technological University, majoring in Operations Management (OM). <!-- It is my honor to be advised by Professor [TANG Qinshen](https://dr.ntu.edu.sg//cris/rp/rp00989).--> My
 research interests include robust optimization, data-driven decision
 making, causal inference, and their applications in supply chain
 management and retailing. Before that, I was a full-time Operations Research (OR) Algorithm Engineer at DAMO Academy, the research entity of Alibaba Group. I obtained Master's degree from [Antai College of Economics and Management](http://www.acem.sjtu.edu.cn/en/),
 Shanghai Jiao Tong University (SJTU), advised by Professor
-[Huan Zheng](http://www.acem.sjtu.edu.cn/en/faculty/zhenghuan.html), and Bachelor's degree in from Xidian University (西安电子科技大学).
+[Huan Zheng](http://www.acem.sjtu.edu.cn/en/faculty/zhenghuan.html), and Bachelor's degree from Xidian University (西安电子科技大学).
 <!-- Currently (Dec 2020), I am actively looking for a Ph.D. position,
 commencing in 2021 Fall, in Operations Management / Operations Research
 / Management Science.-->
-
-Education
-=========
-- Ph.D in Operations Management, Nanyang Technological University, Singapore, 2021.07 -
-- M.S. in Management Science and Engineering, Shanghai Jiao Tong
-  University, China, 2017.08 - 2021.03
-- B.S. in Information Management and Information System, Xidian
-  University, China, 2013.06 - 2017.07
-
-Industrial Experience
-=====================
-- Operations Research Algorithm Engineer (Full Time), DAMO Academy, Alibaba Group, 2021.04 - 2021.07
-- Algorithm Intern, Meituan, 2020.06 - 2020.09
-- Research Intern, Alibaba Group, 2020.03 - 2020.06
 
 Contact Me
 ==========

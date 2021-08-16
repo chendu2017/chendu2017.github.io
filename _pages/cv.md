@@ -60,4 +60,4 @@ Skills
   * Familiar with [Git](https://git-scm.com/)
 
 
-Last updated: July 2021
+Last updated: Aug 2021
