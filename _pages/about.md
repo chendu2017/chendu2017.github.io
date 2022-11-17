@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
   - /sitemap/
 ---
-
 About me
 ========
 
@@ -18,15 +17,14 @@ making, causal inference, and their applications in supply chain
 management and retailing. Before that, I was a full-time Operations Research (OR) Algorithm Engineer at DAMO Academy, the research entity of Alibaba Group. I obtained Master's degree from [Antai College of Economics and Management](http://www.acem.sjtu.edu.cn/en/),
 Shanghai Jiao Tong University (SJTU), advised by Professor
 [Huan Zheng](http://www.acem.sjtu.edu.cn/en/faculty/zhenghuan.html), and Bachelor's degree from Xidian University (西安电子科技大学).
-<!-- Currently (Dec 2020), I am actively looking for a Ph.D. position,
-commencing in 2021 Fall, in Operations Management / Operations Research
-/ Management Science.-->
+
+span
 
 Contact Me
 ==========
 
-Email: <chen1443@e.ntu.edu.sg>  
-Address: GH2 #07-52, 48 Nanyang Crescent, Singapore 637121
+Email: <chen1443@e.ntu.edu.sg>, <chendu2017@sjtu.edu.cn>
+Address: S3-B2C, 52 Nanyang Ave, Singapore 639798
 
 <!--
 Like many other Jekyll-based GitHub Pages templates, academicpages makes
