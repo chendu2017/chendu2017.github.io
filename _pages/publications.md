@@ -8,6 +8,9 @@ author_profile: true
 
 Working Papers
 ==============
+- **Du Chen**, Geoffrey A. Chua. The Privacy-Preserving Big-Data Newsvendor.
+  - Presentation at POMS-HK 2023 \[[Technical Note](https://raw.githubusercontent.com/chendu2017/chendu2017.github.io/master/selected_works/DP_NV_Technical_Note_POMS_HK_2023.pdf)\]
+
 
 - **Du Chen**, Xun Zhang\*.
   [Prepositioning Network Design for Disaster Relief Purposes under
@@ -24,10 +27,11 @@ Spatially Correlated Demand Uncertainty](https://raw.githubusercontent.com/chend
 <!--   We investigate a single machine scheduling problem under random release time and processing time with unknown distributions. The objective is to minimize the total completion time or makespan. This problem is formulated as a two-stage distributionally robust model based on the first two moments. To solve this problem, we employ the linear decision rule and develop an approximated mixed-integer second-order cone programming. We conduct computational studies by testing out-of-sample scheduling instances.-->
 <!--   </details>-->
 
-- **Du Chen**, Yuanzheng Ma, Huan Zheng\*.
+<!-- - **Du Chen**, Yuanzheng Ma, Huan Zheng\*.
   [Value and Cost of
   Adopting Upfront Warehouses for Apparel Retailing Networks](https://raw.githubusercontent.com/chendu2017/chendu2017.github.io/master/selected_works/Value%20and%20Cost%20of%20Adopting%20Upfront%20Warehouses%20for%20Apparel%20Retailing%20Networks.pdf),
   in preparation. [[Case Study](https://raw.githubusercontent.com/chendu2017/chendu2017.github.io/master/selected_works/Goodbaby%20Group%20The%20Upfront%20Warehouse%20Decision%20---%20Publish%20Version.pdf)]
+-->
 
 Publications
 ============
