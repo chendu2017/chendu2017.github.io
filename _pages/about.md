@@ -11,7 +11,7 @@ redirect_from:
 About me
 ========
 
-I am currently a PhD student at Nanyang Business School, Nanyang Technological University, majoring in Operations Management (OM). <!-- It is my honor to be advised by Professor [TANG Qinshen](https://dr.ntu.edu.sg//cris/rp/rp00989).--> My
+I am currently a PhD student at Nanyang Business School, Nanyang Technological University, majoring in Operations Management (OM). It is my honor to be advised by Professor [Geoffrey A. Chua](https://dr.ntu.edu.sg//cris/rp/rp00989).--> My
 research interests include privacy-concerned data-driven operations, robust optimization, and their applications in retailing and supply chain
 management. Before that, I was a full-time Operations Research (OR) Algorithm Engineer at DAMO Academy, the research entity of Alibaba Group.
 I obtained Master's degree from [Antai College of Economics and Management](http://www.acem.sjtu.edu.cn/en/),
@@ -22,6 +22,7 @@ Contact Me
 ==========
 
 Email: <chen1443@e.ntu.edu.sg>, <chendu2017@sjtu.edu.cn>
+
 Address: S3-B2C, 52 Nanyang Ave, Singapore 639798
 
 <!--
