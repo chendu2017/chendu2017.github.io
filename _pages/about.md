@@ -25,6 +25,8 @@ Email: <chen1443@e.ntu.edu.sg>, <chendu2017@sjtu.edu.cn>
 
 Address: S3-B2C, 52 Nanyang Ave, Singapore 639798
 
+Last updated: Dec 2022
+
 <!--
 Like many other Jekyll-based GitHub Pages templates, academicpages makes
 you separate the website's content from its form. The content & metadata
