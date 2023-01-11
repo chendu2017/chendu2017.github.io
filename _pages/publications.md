@@ -9,7 +9,7 @@ author_profile: true
 Working Papers
 ==============
 - **Du Chen**, Geoffrey A. Chua. The Privacy-Preserving Big-Data Newsvendor.
-  - Presentation at POMS-HK 2023 \[[Technical Note](https://raw.githubusercontent.com/chendu2017/chendu2017.github.io/master/selected_works/DP_NV_Technical_Note_POMS_HK_2023.pdf)\]
+  - Present at POMS-HK 2023 \[[Slides](https://raw.githubusercontent.com/chendu2017/chendu2017.github.io/master/selected_works/POMS_HK2023_pre.pdf)\]
 
 
 - **Du Chen**, Xun Zhang\*.
