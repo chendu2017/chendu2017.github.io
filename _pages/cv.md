@@ -52,7 +52,7 @@ Teaching Experience
 Skills
 ======
 Python, Java, SQL, LaTeX, [Git](https://git-scm.com/)
-<!---* Programming Language
+<!--* Programming Language
   * Proficient in Python
     * Familiar with optimization solvers: [Gurobi](https://www.gurobi.com), [Mosek](https://www.mosek.com), OR-tools
     * Familiar with data analysis packages (pandas, numpy) and visualization packages (matplotlib, seaborn)
