@@ -11,10 +11,13 @@ Working Papers
 - **Du Chen**, Geoffrey A. Chua. The Privacy-Preserving Big-Data Newsvendor.
   - Present at POMS-HK 2023 [[Slides](https://raw.githubusercontent.com/chendu2017/chendu2017.github.io/master/selected_works/POMS_HK2023_pre.pdf)]
 
+- **Du Chen**\*, Geoffrey A. Chua. [Differentially Private Stochastic Convex Optimization under a Quantile Loss Function](https://raw.githubusercontent.com/chendu2017/chendu2017.github.io/master/selected_works/DPSCO_quantile_icml2023.pdf),
+submitted to International Conference on Machine Learning (ICML) 2023.
+
 
 - **Du Chen**, Xun Zhang\*.
   [Prepositioning Network Design for Disaster Relief Purposes under
-Spatially Correlated Demand Uncertainty](https://raw.githubusercontent.com/chendu2017/chendu2017.github.io/master/selected_works/Prepositioning%20Network%20Design.pdf)
+Correlated Demand Uncertainty](https://raw.githubusercontent.com/chendu2017/chendu2017.github.io/master/selected_works/Prepositioning%20Network%20Design.pdf)
   <!--<details>-->
 <!--  <summary>Abstract</summary>-->
 <!--   Motivated by a cooperation project with Group G, we propose a fulfillment-oriented location inventory problem under demand information uncertainty, where only the mean and covariance matrix are known. We formulate this problem as a mixed-integer two-stage distributionally robust optimization model, which is generally NP-hard. The model is further reformulated as a mixed integer conic problem based on copositive cones, and it is tractable with positive semidefinite relaxation. We design an interpretable dual-variable-based heuristic to accelerate the branch-and-bound solution process. Extensive numerical studies demonstrate that compared to a sample-average-approximation model and a robust model with only mean and variance information, our proposed model can achieve a higher fulfillment rate and a lower total cost.-->
