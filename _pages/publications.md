@@ -11,9 +11,6 @@ Working Papers
 - **Du Chen**, Geoffrey A. Chua. The Privacy-Preserving Big-Data Newsvendor.
   - Present at POMS-HK 2023 [[Slides](https://raw.githubusercontent.com/chendu2017/chendu2017.github.io/master/selected_works/POMS_HK2023_pre.pdf)]
 
-- **Du Chen**\*, Geoffrey A. Chua. [Differentially Private Stochastic Convex Optimization under a Quantile Loss Function](https://raw.githubusercontent.com/chendu2017/chendu2017.github.io/master/selected_works/DPSCO_quantile_icml2023.pdf),
-submitted to International Conference on Machine Learning (ICML) 2023.
-
 
 - **Du Chen**, Xun Zhang\*.
   [Prepositioning Network Design for Disaster Relief Purposes under
@@ -38,6 +35,9 @@ Correlated Demand Uncertainty](https://raw.githubusercontent.com/chendu2017/chen
 
 Publications
 ============
+- **Du Chen**\*, Geoffrey A. Chua. [Differentially Private Stochastic Convex Optimization under a Quantile Loss Function](https://raw.githubusercontent.com/chendu2017/chendu2017.github.io/master/selected_works/DPSCO_quantile_icml2023.pdf),
+accepted at International Conference on Machine Learning (ICML) 2023, forthcoming.
+
 
 - **Du Chen**, Yuming Deng, Guangrui Ma, Hao Ge, Yunwei Qi, Ying Rong,
   Xun Zhang, and Huan Zheng\*. (2020), [Inventory Based Recommendation Algorithms](https://ieeexplore.ieee.org/abstract/document/9378261) [C]. *2020 IEEE International Conference on Big Data (Big Data)*. IEEE, 2020: 617-622. [[Slides](https://raw.githubusercontent.com/chendu2017/chendu2017.github.io/master/selected_works/bigdata2020-BigD293.pdf)]
