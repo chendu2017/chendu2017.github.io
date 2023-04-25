@@ -36,7 +36,7 @@ Correlated Demand Uncertainty](https://raw.githubusercontent.com/chendu2017/chen
 Publications
 ============
 - **Du Chen**\*, Geoffrey A. Chua. [Differentially Private Stochastic Convex Optimization under a Quantile Loss Function](https://raw.githubusercontent.com/chendu2017/chendu2017.github.io/master/selected_works/DPSCO_quantile_icml2023.pdf),
-accepted at International Conference on Machine Learning (ICML) 2023, forthcoming.
+accepted at *International Conference on Machine Learning (ICML) 2023*, forthcoming.
 
 
 - **Du Chen**, Yuming Deng, Guangrui Ma, Hao Ge, Yunwei Qi, Ying Rong,
