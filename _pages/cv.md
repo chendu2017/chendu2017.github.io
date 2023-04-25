@@ -51,7 +51,7 @@ Teaching Experience
 
 Skills
 ======
-Python, Java, SQL, LaTeX, [Git](https://git-scm.com/)
+Python, Java, SQL, LaTeX
 
 <!--
   * Programming Language
