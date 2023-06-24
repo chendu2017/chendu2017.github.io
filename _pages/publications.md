@@ -8,7 +8,7 @@ author_profile: true
 
 Working Papers
 ==============
-- **Du Chen**, Geoffrey A. Chua. Managing Third-party Risk in Supply Chain Data Security: The Differentially Private Newsvendor.
+- **Du Chen**, Geoffrey A. Chua. Managing Third-party Risks in Supply Chain Data Security: The Differentially Private Newsvendor.
   - Present at POMS-HK 2023 [[Slides](https://raw.githubusercontent.com/chendu2017/chendu2017.github.io/master/selected_works/POMS_HK2023_pre.pdf)]
 
 
