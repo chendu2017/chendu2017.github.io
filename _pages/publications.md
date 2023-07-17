@@ -8,12 +8,10 @@ author_profile: true
 
 Working Papers
 ==============
-- **Du Chen**, Geoffrey A. Chua. Managing Third-party Risks in Supply Chain Data Security: The Differentially Private Newsvendor.
-  - Present at POMS-HK 2023 [[Slides](https://raw.githubusercontent.com/chendu2017/chendu2017.github.io/master/selected_works/POMS_HK2023_pre.pdf)]
-
+- **Du Chen**, Geoffrey A. Chua. Managing Third-party Risks in Supply Chain Data Security: The Differentially Private Newsvendor. [[Slides](https://raw.githubusercontent.com/chendu2017/chendu2017.github.io/master/selected_works/DP-NV_POMS-China2023_Slides.pdf)]
 
 - Xun Zhang, **Du Chen**\*.
-  [Distributionally Robust Scheduling with Uncertain Release Time and Processing Time](https://raw.githubusercontent.com/chendu2017/chendu2017.github.io/master/selected_works/Distributionally%20Robust%20Scheduling%20Problems.pdf)
+  [Target-oriented Robust Satisficing Models for the Single Machine Scheduling Problems with Release Time](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4466786)
   <!--<details>-->
 <!--  <summary>Abstract</summary>-->
 <!--   We investigate a single machine scheduling problem under random release time and processing time with unknown distributions. The objective is to minimize the total completion time or makespan. This problem is formulated as a two-stage distributionally robust model based on the first two moments. To solve this problem, we employ the linear decision rule and develop an approximated mixed-integer second-order cone programming. We conduct computational studies by testing out-of-sample scheduling instances.-->
@@ -30,7 +28,7 @@ Publications
 "*" indicates the corresponding author 
 - **Du Chen**\*, Geoffrey A. Chua. [Differentially Private Stochastic Convex Optimization under a Quantile Loss Function](https://openreview.net/forum?id=MX4LDCq9iS), *the 40th International Conference on Machine Learning (ICML 2023)*, forthcoming.
 
-- Xun Zhang,**Du Chen**\*. [Prepositioning network design for humanitarian relief purposes under correlated demand uncertainty](https://doi.org.remotexs.ntu.edu.sg/10.1016/j.cie.2023.109365) [J]. Computers & Industrial Engineering, 2023: 109365.
+- Xun Zhang,**Du Chen**\*. [Prepositioning Network Design for Humanitarian Relief Purposes under Correlated Demand Uncertainty](https://doi.org/10.1016/j.cie.2023.109365) [J]. *Computers & Industrial Engineering*, 2023: 109365.
 
 - **Du Chen**, Yuming Deng, Guangrui Ma, Hao Ge, Yunwei Qi, Ying Rong,
   Xun Zhang, and Huan Zheng\*. (2020), [Inventory Based Recommendation Algorithms](https://ieeexplore.ieee.org/abstract/document/9378261) [C]. *2020 IEEE International Conference on Big Data (Big Data)*. IEEE, 2020: 617-622. [[Slides](https://raw.githubusercontent.com/chendu2017/chendu2017.github.io/master/selected_works/bigdata2020-BigD293.pdf)]
