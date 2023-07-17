@@ -26,7 +26,7 @@ Working Papers
 Publications
 ============
 "*" indicates the corresponding author 
-- **Du Chen**\*, Geoffrey A. Chua. [Differentially Private Stochastic Convex Optimization under a Quantile Loss Function](https://openreview.net/forum?id=MX4LDCq9iS), *the 40th International Conference on Machine Learning (ICML 2023)*, forthcoming.
+- **Du Chen**\*, Geoffrey A. Chua. [Differentially Private Stochastic Convex Optimization under a Quantile Loss Function](https://openreview.net/forum?id=MX4LDCq9iS), *the 40th International Conference on Machine Learning (ICML 2023)*. [[Poster](https://raw.githubusercontent.com/chendu2017/chendu2017.github.io/master/selected_works/DPSCO_quantile_icml2023_poster.pdf)]
 
 - Xun Zhang,**Du Chen**\*. [Prepositioning Network Design for Humanitarian Relief Purposes under Correlated Demand Uncertainty](https://doi.org/10.1016/j.cie.2023.109365) [J]. *Computers & Industrial Engineering*, 2023: 109365.
 
