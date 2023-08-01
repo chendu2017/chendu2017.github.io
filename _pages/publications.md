@@ -8,7 +8,7 @@ author_profile: true
 
 Working Papers
 ==============
-- **Du Chen**, Geoffrey A. Chua. Managing Third-party Risks in Supply Chain Data Security: The Differentially Private Newsvendor. [[Slides](https://raw.githubusercontent.com/chendu2017/chendu2017.github.io/master/selected_works/DP-NV_POMS-China2023_Slides.pdf)]
+- **Du Chen**, Geoffrey A. Chua. Managing Third-party Risks in Supply Chain Data Security: The Differentially Private Newsvendor. 
 
 - Xun Zhang, **Du Chen**\*.
   [Target-oriented Robust Satisficing Models for the Single Machine Scheduling Problems with Release Time](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4466786)
