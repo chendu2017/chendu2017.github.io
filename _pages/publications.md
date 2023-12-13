@@ -8,7 +8,7 @@ author_profile: true
 
 Working Papers
 ==============
-- **Du Chen**, Geoffrey A. Chua\*. [An Algorithmic Approach to Managing Supply Chain Data Security: The Differentially Private Newsvendor](https://raw.githubusercontent.com/chendu2017/chendu2017.github.io/master/selected_works/DP_NV_GitHub.pdf) <!--(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4654269)-->
+- **Du Chen**, Geoffrey A. Chua\*. [An Algorithmic Approach to Managing Supply Chain Data Security: The Differentially Private Newsvendor](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4654269)
 - Xun Zhang, **Du Chen**\*.
   [Target-oriented Robust Satisficing Models for the Single Machine Scheduling Problems with Release Time](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4466786)
   <!--<details>-->
