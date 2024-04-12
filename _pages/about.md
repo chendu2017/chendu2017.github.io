@@ -18,7 +18,7 @@ I obtained Master's degree from [Antai College of Economics and Management](http
 Shanghai Jiao Tong University (SJTU), advised by Professor
 [Huan Zheng](http://www.acem.sjtu.edu.cn/en/faculty/zhenghuan.html), and Bachelor's degree from Xi'an University of Electronic Science and Technology.
 
-Contact Me
+Contact me
 ==========
 
 Email: <chen1443@e.ntu.edu.sg>, <chendu2017@sjtu.edu.cn>
