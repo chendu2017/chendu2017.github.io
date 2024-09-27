@@ -22,37 +22,31 @@ Publications
 ============
 "*" indicates corresponding author 
 
-**Du Chen**\*, Geoffrey A. Chua. Noisy Dual Mirror Descent: A Near Optimal Algorithm for Jointly-DP Convex Resource Allocation, NeurIPS 2024, forthcoming
-
-**Du Chen**\*, Geoffrey A. Chua. [Differentially Private Stochastic Convex Optimization under a Quantile Loss Function](https://proceedings.mlr.press/v202/chen23d.html), *Proceedings of the 40th International Conference on Machine Learning* (ICML 2023), PMLR 202:4435-4461, 2023. [[Poster](https://raw.githubusercontent.com/chendu2017/chendu2017.github.io/master/selected_works/DPSCO_quantile_icml2023_poster.pdf)]
+- **Du Chen**\*, Geoffrey A. Chua. Noisy Dual Mirror Descent: A Near Optimal Algorithm for Jointly-DP Convex Resource Allocation, NeurIPS 2024, forthcoming
 
 
-Publications prior to Ph.D.
-==========
-- Xun Zhang, **Du Chen**\*. [Target-oriented Robust Satisficing Models for the Single Machine Scheduling Problems with Release Time](https://www.sciencedirect.com/science/article/pii/S030505482400114X) [J], *Computers & Operations Research*, 2024, 167: 106642.
+- **Du Chen**\*, Geoffrey A. Chua. [Differentially Private Stochastic Convex Optimization under a Quantile Loss Function](https://proceedings.mlr.press/v202/chen23d.html), *Proceedings of the 40th International Conference on Machine Learning* (ICML 2023), PMLR 202:4435-4461, 2023. [[Poster](https://raw.githubusercontent.com/chendu2017/chendu2017.github.io/master/selected_works/DPSCO_quantile_icml2023_poster.pdf)]
 
 
-- Xun Zhang, **Du Chen**\*. [Prepositioning Network Design for Humanitarian Relief Purposes under Correlated Demand Uncertainty](https://doi.org/10.1016/j.cie.2023.109365) [J]. *Computers & Industrial Engineering*, 2023, 182: 109365.
 
+<details>
+<summary>
+Prior to Ph.D.
 
-- **Du Chen**, Yuming Deng, Guangrui Ma, Hao Ge, Yunwei Qi, Ying Rong,
+</summary>
+
+Xun Zhang, **Du Chen**\*. [Target-oriented Robust Satisficing Models for the Single Machine Scheduling Problems with Release Time](https://www.sciencedirect.com/science/article/pii/S030505482400114X) [J], *Computers & Operations Research*, 2024, 167: 106642.
+
+Xun Zhang, **Du Chen**\*. [Prepositioning Network Design for Humanitarian Relief Purposes under Correlated Demand Uncertainty](https://doi.org/10.1016/j.cie.2023.109365) [J]. *Computers & Industrial Engineering*, 2023, 182: 109365.
+
+**Du Chen**, Yuming Deng, Guangrui Ma, Hao Ge, Yunwei Qi, Ying Rong,
   Xun Zhang, and Huan Zheng\*. (2020), [Inventory Based Recommendation Algorithms](https://ieeexplore.ieee.org/abstract/document/9378261) [C]. *2020 IEEE International Conference on Big Data (Big Data)*. IEEE, 2020: 617-622.
 
-
-- **Du Chen**\*. (2020), [Prepositioning Network Design for Disaster Reliefs: Stochastic Models and $\Psi$-Expander Models Comparison](https://doi.org/10.1016/j.cie.2019.106214) [J].
+**Du Chen**\*. (2020), [Prepositioning Network Design for Disaster Reliefs: Stochastic Models and $\Psi$-Expander Models Comparison](https://doi.org/10.1016/j.cie.2019.106214) [J].
   *Computers & Industrial Engineering*, 2020, 140: 106214.
 
 
-
-[//]: # (<details>)
-
-[//]: # (<summary>)
-
-[//]: # (Prior to Ph.D.)
-
-[//]: # (</summary>)
-
-[//]: # (</details>)
+</details>
 
 
 
