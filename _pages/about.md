@@ -16,7 +16,7 @@ It is my honor to be advised by Professor [Geoffrey A. Chua](https://dr.ntu.edu.
 My research interests include differential privacy, private optimization, and their applications in privacy-preserving operations management. 
 Before my PhD, I was a full-time Operations Research (OR) Algorithm Engineer at DAMO Academy, the research institute of Alibaba Group.
 I obtained Master's degree in Management Science from [Antai College of Economics and Management](http://www.acem.sjtu.edu.cn/en/),
-Shanghai Jiao Tong University (SJTU) under the supervision pf Professor
+Shanghai Jiao Tong University (SJTU) under the supervision of Professor
 [Huan Zheng](http://www.acem.sjtu.edu.cn/en/faculty/zhenghuan.html), and Bachelor's degree from Xi'an University of Electronic Science and Technology.
 
 Contact me
