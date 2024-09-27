@@ -11,11 +11,12 @@ redirect_from:
 About me
 ========
 
-Hi, welcome to my homepage! My name is Du Chen (陈督), and I am currently a PhD student at Nanyang Business School, Nanyang Technological University, majoring in Operations Management (OM). It is my honor to be advised by Professor [Geoffrey A. Chua](https://dr.ntu.edu.sg/cris/rp/rp00581). My
-research interests include privacy-concerned data-driven operations, robust optimization, and their applications in retailing and supply chain
-management. Before my PhD, I was a full-time Operations Research (OR) Algorithm Engineer at DAMO Academy, the research entity of Alibaba Group.
-I obtained Master's degree from [Antai College of Economics and Management](http://www.acem.sjtu.edu.cn/en/),
-Shanghai Jiao Tong University (SJTU), advised by Professor
+Hi, welcome to my homepage! My name is Du Chen (陈督), and I am currently a PhD student at Nanyang Business School, Nanyang Technological University, majoring in Operations Management (OM). 
+It is my honor to be advised by Professor [Geoffrey A. Chua](https://dr.ntu.edu.sg/cris/rp/rp00581). 
+My research interests include differential privacy, private optimization, and their applications in privacy-preserving operations management. 
+Before my PhD, I was a full-time Operations Research (OR) Algorithm Engineer at DAMO Academy, the research institute of Alibaba Group.
+I obtained Master's degree in Management Science from [Antai College of Economics and Management](http://www.acem.sjtu.edu.cn/en/),
+Shanghai Jiao Tong University (SJTU) under the supervision pf Professor
 [Huan Zheng](http://www.acem.sjtu.edu.cn/en/faculty/zhenghuan.html), and Bachelor's degree from Xi'an University of Electronic Science and Technology.
 
 Contact me
@@ -23,7 +24,7 @@ Contact me
 
 Email: <chen1443@e.ntu.edu.sg>, <chendu2017@sjtu.edu.cn>
 
-Address: S3-B2C, 52 Nanyang Ave, Singapore 639798
+Address: ABS-04-037, 91 Nanyang Ave, Gaia South Academic Building, Singapore 639956
 
 
 

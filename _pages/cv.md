@@ -25,15 +25,18 @@ Industrial Experience
 
 Teaching Experience
 ===================
-- Guest Lecturer
-  - ''Applied Business Modeling'' (Graduate Elective), Prof. Ying Rong, 2019 Fall
-    - Topics taught: Difference-in-Difference Model; Matching Method in Social Science
-
 - Teaching Assistant
-  - ''Dynamic Pricing & Revenue Management'' (Graduate Elective), Asst. Prof. Tong Wang, 2020 Fall
-  - ''Stochastic Dynamic Programming'' (Graduate Elective), Asst. Prof. Tong Wang, 2020 Fall
-  - ''Quantitative Analysis'' (DBA Core Course), Prof. Huan Zheng, 2019 Fall
-  -  ''Data, Model, Decision'' (International MBA Elective), Prof. Huan Zheng, 2018 Fall
+  - ''Operations & Supply Chains'' (REP Programme, NTU), Prof. Geoffrey A. Chua, 2022 Fall, 2023 Fall, 2024 Fall
+  - ''Supply Chain Analytics'' (Undergrad, NTU), Prof. Geoffrey A. Chua, 2023 Spring, 2024 Spring
+  - ''Dynamic Pricing & Revenue Management'' (Graduate Elective, SJTU), Asst. Prof. Tong Wang, 2020 Fall
+  - ''Stochastic Dynamic Programming'' (Graduate Elective, SJTU), Asst. Prof. Tong Wang, 2020 Fall
+  - ''Quantitative Analysis'' (DBA Core Course, SJTU), Prof. Huan Zheng, 2019 Fall
+  -  ''Data, Model, Decision'' (International MBA Elective, SJTU), Prof. Huan Zheng, 2018 Fall
+
+
+- Guest Lecturer
+  - ''Applied Business Modeling'' (Graduate Elective, SJTU), Prof. Ying Rong, 2019 Fall
+    - Topics taught: Difference-in-Difference Model; Matching Method in Social Science
 
 <!--Awards-->
 <!--======-->
