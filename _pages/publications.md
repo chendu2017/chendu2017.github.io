@@ -18,9 +18,7 @@ Working Papers
 
 
 
-
-
-Publications
+Publications 
 ============
 "*" indicates corresponding author 
 
@@ -29,13 +27,8 @@ Publications
 **Du Chen**\*, Geoffrey A. Chua. [Differentially Private Stochastic Convex Optimization under a Quantile Loss Function](https://proceedings.mlr.press/v202/chen23d.html), *Proceedings of the 40th International Conference on Machine Learning* (ICML 2023), PMLR 202:4435-4461, 2023. [[Poster](https://raw.githubusercontent.com/chendu2017/chendu2017.github.io/master/selected_works/DPSCO_quantile_icml2023_poster.pdf)]
 
 
-<details>
-<summary>
-Prior to Ph.D.
-
-</summary>
-
-
+Publications prior to Ph.D.
+==========
 - Xun Zhang, **Du Chen**\*. [Target-oriented Robust Satisficing Models for the Single Machine Scheduling Problems with Release Time](https://www.sciencedirect.com/science/article/pii/S030505482400114X) [J], *Computers & Operations Research*, 2024, 167: 106642.
 
 
@@ -50,7 +43,20 @@ Prior to Ph.D.
   *Computers & Industrial Engineering*, 2020, 140: 106214.
 
 
-</details>
+
+[//]: # (<details>)
+
+[//]: # (<summary>)
+
+[//]: # (Prior to Ph.D.)
+
+[//]: # (</summary>)
+
+[//]: # (</details>)
+
+
+
+
 
 
 
