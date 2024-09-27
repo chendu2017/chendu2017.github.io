@@ -25,7 +25,7 @@ Publications
 - **Du Chen**\*, Geoffrey A. Chua. Noisy Dual Mirror Descent: A Near Optimal Algorithm for Jointly-DP Convex Resource Allocation, NeurIPS 2024, forthcoming
 
 
-- **Du Chen**\*, Geoffrey A. Chua. [Differentially Private Stochastic Convex Optimization under a Quantile Loss Function](https://proceedings.mlr.press/v202/chen23d.html), *Proceedings of the 40th International Conference on Machine Learning* (ICML 2023), PMLR 202:4435-4461, 2023. [[Poster](https://raw.githubusercontent.com/chendu2017/chendu2017.github.io/master/selected_works/DPSCO_quantile_icml2023_poster.pdf)]
+- **Du Chen**\*, Geoffrey A. Chua. [Differentially Private Stochastic Convex Optimization under a Quantile Loss Function](https://proceedings.mlr.press/v202/chen23d.html), *Proceedings of the 40th International Conference on Machine Learning* (ICML 2023), PMLR 202:4435-4461, 2023. [[Poster](https://raw.githubusercontent.com/chendu2017/chendu2017.github.io/master/files/DPSCO_quantile_icml2023_poster.pdf)]
 
 
 ### Prior to Ph.D.
