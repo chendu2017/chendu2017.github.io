@@ -23,11 +23,11 @@ Working Papers
 Publications 
 ============
 "*" indicates corresponding author
-- **Du Chen**\*, Geoffrey A. Chua. [Exploiting Symmetry to Improve Objective Perturbation for DP linear learners with a nonsmooth L1-norm](https://openreview.net/forum?id=J863DxU7Sx), *The Thirteenth International Conference on Learning Representations (ICLR 2025)
+- **Du Chen**\*, Geoffrey A. Chua. [Exploiting Symmetry to Improve Objective Perturbation for DP linear learners with a nonsmooth L1-norm](https://openreview.net/forum?id=J863DxU7Sx), The Thirteenth International Conference on Learning Representations (ICLR 2025)
 
-- **Du Chen**\*, Geoffrey A. Chua. [Noisy Dual Mirror Descent: A Near Optimal Algorithm for Jointly-DP Convex Resource Allocation](https://openreview.net/forum?id=6ArNmbMpKF), *The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)
+- **Du Chen**\*, Geoffrey A. Chua. [Noisy Dual Mirror Descent: A Near Optimal Algorithm for Jointly-DP Convex Resource Allocation](https://openreview.net/forum?id=6ArNmbMpKF), The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)
 
-- **Du Chen**\*, Geoffrey A. Chua. [Differentially Private Stochastic Convex Optimization under a Quantile Loss Function](https://proceedings.mlr.press/v202/chen23d.html), *Proceedings of the 40th International Conference on Machine Learning* (ICML 2023), PMLR 202:4435-4461, 2023.  <!--[[Poster](https://raw.githubusercontent.com/chendu2017/chendu2017.github.io/master/files/DPSCO_quantile_icml2023_poster.pdf)]-->
+- **Du Chen**\*, Geoffrey A. Chua. [Differentially Private Stochastic Convex Optimization under a Quantile Loss Function](https://proceedings.mlr.press/v202/chen23d.html), Proceedings of the 40th International Conference on Machine Learning (ICML 2023), PMLR 202:4435-4461, 2023.  <!--[[Poster](https://raw.githubusercontent.com/chendu2017/chendu2017.github.io/master/files/DPSCO_quantile_icml2023_poster.pdf)]-->
 
 
 Publications prior to my Ph.D. can be found [here](https://chendu2017.github.io/pub_before_phd/).
