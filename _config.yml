@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Du CHEN"
+title                    : "Du CHEN 陈督"
 title_separator          : "-"
-name                     : &name "Du CHEN"
+name                     : &name "Du CHEN 陈督"
 description              : &description "PhD Candidate at Nanyang Business School, Nanyang Technological University"
 url                      : https://chendu2017.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
