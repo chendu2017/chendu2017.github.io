@@ -25,11 +25,16 @@ Industrial Experience
 
 Teaching Experience
 ===================
+
+- Instructor
+  - Statistics \& Analysis (NBS undergrad core, NTU), 2025 Spring
+
+
 - Teaching Assistant
   - ''Operations & Supply Chains'' (REP Programme, NTU), Prof. Geoffrey A. Chua, 2022 Fall, 2023 Fall, 2024 Fall
   - ''Supply Chain Analytics'' (Undergrad, NTU), Prof. Geoffrey A. Chua, 2023 Spring, 2024 Spring
-  - ''Dynamic Pricing & Revenue Management'' (Graduate Elective, SJTU), Asst. Prof. Tong Wang, 2020 Fall
-  - ''Stochastic Dynamic Programming'' (Graduate Elective, SJTU), Asst. Prof. Tong Wang, 2020 Fall
+  - ''Dynamic Pricing & Revenue Management'' (Graduate Elective, SJTU), Prof. Tong Wang, 2020 Fall
+  - ''Stochastic Dynamic Programming'' (Graduate Elective, SJTU), Prof. Tong Wang, 2020 Fall
   - ''Quantitative Analysis'' (DBA Core Course, SJTU), Prof. Huan Zheng, 2019 Fall
   -  ''Data, Model, Decision'' (International MBA Elective, SJTU), Prof. Huan Zheng, 2018 Fall
 
