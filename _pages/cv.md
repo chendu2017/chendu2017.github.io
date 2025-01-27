@@ -27,7 +27,7 @@ Teaching Experience
 ===================
 
 - Instructor
-  - Statistics \& Analysis (NBS undergrad core, NTU), 2025 Spring
+  - Statistics & Analysis (NBS undergrad core, NTU), 2025 Spring
 
 
 - Teaching Assistant
