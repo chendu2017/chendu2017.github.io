@@ -8,7 +8,7 @@ author_profile: true
 
 Working Papers
 ==============
-- **Du Chen**, Geoffrey A. Chua, Victor Richmond R. Jose\*, [Privacy-Preserving Resource Allocation: Near-Optimal Algorithms and Public Policy Implications](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5112521), submitted to *Management Science*
+- **Du Chen**, Geoffrey A. Chua, Victor Richmond R. Jose\*, [Privacy-Preserving Resource Allocation: Near-Optimal Algorithms and Public Policy Implications](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5112521)
 
 - **Du Chen**, Geoffrey A. Chua\*. [An Algorithmic Approach to Managing Supply Chain Data Security: The Differentially Private Newsvendor](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4654269), under 3rd-round review in *Operations Research*
 
@@ -23,7 +23,7 @@ Working Papers
 Publications 
 ============
 "*" indicates corresponding author
-- **Du Chen**\*, Geoffrey A. Chua. [Exploiting Symmetry to Improve Objective Perturbation for DP linear learners with a nonsmooth L1-norm](https://openreview.net/forum?id=J863DxU7Sx), The Thirteenth International Conference on Learning Representations (ICLR 2025)
+- **Du Chen**\*, Geoffrey A. Chua. [Exploiting Hidden Symmetry to Improve Objective Perturbation for DP linear learners with a nonsmooth L1-norm](https://openreview.net/forum?id=J863DxU7Sx), The Thirteenth International Conference on Learning Representations (ICLR 2025)
 
 - **Du Chen**\*, Geoffrey A. Chua. [Noisy Dual Mirror Descent: A Near Optimal Algorithm for Jointly-DP Convex Resource Allocation](https://openreview.net/forum?id=6ArNmbMpKF), The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)
 
