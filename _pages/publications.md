@@ -15,7 +15,6 @@ nav_order: 2
 
 - **Joint Differential Privacy for Resource Allocation: Protection Capability, Price of Privacy, and Algorithm Design**   [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5112521)]   
   **Du Chen**, Geoffrey A. Chua, Victor Richmond R. Jose\*    
-  Resubmitted to _Management Science_     
 🏆 Winner: Singapore Rising Scholars Conference 2025 Best Paper Award
 
 
