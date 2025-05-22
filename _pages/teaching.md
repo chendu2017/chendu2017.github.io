@@ -1,12 +1,33 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: A form of mutual learning
 nav: true
-nav_order: 6
+nav_order: 3
 ---
+-----------------
+#### **Nanyang Technological University**
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+##### **Instructor**
+  - **Statistics & Analysis**, BSc in Business, 2025 Spring
 
-Organize your courses by years, topics, or universities, however you like!
+##### **Teaching Assistant**
+  - **Supply Chain Analytics**, BSc in Business, 2023 Spring, 2024 Spring
+  - **Operations & Supply Chains**, BSc in Engineering & MSc in Management (REP Programme), 2022 Fall, 2023 Fall, 2024 Fall
+
+<br>
+
+#### **Shanghai Jiao Tong University**
+
+##### **Guest Lecturer**
+  - **Applied Business Modeling**, MSc in Business Administration, 2019 Fall
+
+
+##### **Teaching Assistant**
+  - **Dynamic Pricing & Revenue Management**, MSc & PhD in Management Science, 2020 Fall
+  - **Stochastic Dynamic Programming**, MSc & PhD in Management Science, 2020 Fall
+  - **Quantitative Analysis**, DBA, 2019 Fall
+  - **Data, Model, Decision**, International MBA, 2018 Fall
+
+

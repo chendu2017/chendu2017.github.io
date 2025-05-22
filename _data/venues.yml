@@ -1,9 +1,21 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"ICML":
+  color: "#8e0707"
+
+"NeurIPS":
+  color: "#8e0707"
+
+"ICLR":
+  color: "#8e0707"
+
+"OR":
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"MS":
+  color: "#00369f"
 
-"Vision":
-  color: "#009f36"
+"POM":
+  color: "#00369f"
+
+"MSOM":
+  color: "#00369f"
+
