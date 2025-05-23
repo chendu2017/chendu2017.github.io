@@ -10,7 +10,7 @@ nav_order: 10
 -------------
 
 
-#### **Publications Prior to Ph.D.**
+#### **Publications Prior to PhD**
 
 - Xun Zhang, **Du Chen**\*. [Target-oriented Robust Satisficing Models for the Single Machine Scheduling Problems with Release Time](https://www.sciencedirect.com/science/article/pii/S030505482400114X) [J], *Computers & Operations Research*, 2024, 167: 106642.
 
