@@ -20,7 +20,7 @@ nav_order: 2
 
 - **An Algorithmic Approach to Managing Supply Chain Data Security: The Differentially Private Newsvendor**   [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4654269)]   
   **Du Chen**, Geoffrey A. Chua\*    
-  Under _Minor Revision_ at _Operations Research_ (awaiting code submission)
+  Under _Minor Revision_ at _Operations Research_
 
 -------------
 

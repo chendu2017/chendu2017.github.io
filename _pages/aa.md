@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /pub_before_phd/
-title: pub_before_phd
+title: Publications Prior to PhD
 description: Last Updated - 2025 May
 nav: false
 nav_order: 10
