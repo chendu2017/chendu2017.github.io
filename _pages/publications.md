@@ -51,7 +51,7 @@ Publications prior to my Ph.D. can be found [here](https://chendu2017.github.io/
 
 I have co-authored some research grants on differential privacy-related topics
 
-- **Managing Data Security in Supply Chains: Algorithmic Approaches and Economic Implications**     
+- **Managing Data Security in Supply Chains: Algorithmic Approaches and Economic Implications** [RG117/23]        
  _The Ministry of Education Singapore,  Academic Research Fund, Tier 1, 2024-2027_
 
 
