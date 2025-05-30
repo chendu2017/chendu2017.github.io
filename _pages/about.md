@@ -43,7 +43,7 @@ It is my honor to be advised by Professor [Geoffrey A. Chua](https://dr.ntu.edu.
 Prior to my PhD, I worked as an Operations Research Algorithm Engineer at DAMO Academy, the research institute of Alibaba Group.
 I received my Master's degree in Management Science from [Antai College of Economics and Management](http://www.acem.sjtu.edu.cn/en/),
 Shanghai Jiao Tong University, where I was advised by Professor
-[Huan Zheng](http://www.acem.sjtu.edu.cn/en/faculty/zhenghuan.html), and my Bachelor's degree from Xi'an University of Electronic Science and Technology.
+[Huan Zheng](http://www.acem.sjtu.edu.cn/en/faculty/zhenghuan.html).
 
 
 My research focuses on privacy-preserving analytics under the **differential privacy** framework.

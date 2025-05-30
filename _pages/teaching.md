@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: A form of mutual learning
+description:
 nav: true
 nav_order: 3
 ---
@@ -30,4 +30,6 @@ nav_order: 3
   - **Quantitative Analysis**, DBA, 2019 Fall
   - **Data, Model, Decision**, International MBA, 2018 Fall
 
+**Teaching case**    
+"Goodbaby Group: The Upfront Warehouse Decision", Ivey Publishing, 9B20D018 [[Link](https://www.iveypublishing.ca/s/product/goodbaby-group-the-upfront-warehouse-decision/01t5c00000CwpoiAAB)]
 
