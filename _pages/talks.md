@@ -33,10 +33,10 @@ nav_order: 3
   &nbsp; &nbsp; (#) Research Seminar at Singapore Management University (SMU), Singapore, 2024 Sep   
   &nbsp; &nbsp; (#) Research Seminar at Singapore University of Technology and Design (SUTD), Singapore, 2024 Feb   
   &nbsp; &nbsp; Singapore Analytics and Operations Day, Singapore, 2024 Sep   
-  &nbsp; &nbsp; The 33rd European Conference on Operational Research (EURO 2024), Copenhagen, Denmark, 2024 July       
-  &nbsp; &nbsp; The 14rd POMS-HK International Conference (POMS-HK 2024), Hong Kong SAR, China, 2024 Jan     
+  &nbsp; &nbsp; The 33th European Conference on Operational Research (EURO 2024), Copenhagen, Denmark, 2024 July       
+  &nbsp; &nbsp; The 14th POMS-HK International Conference (POMS-HK 2024), Hong Kong SAR, China, 2024 Jan     
   &nbsp; &nbsp; 2023 POMS International Conference in China (POMS-China 2023), Hangzhou, China, 2023 July     
-  &nbsp; &nbsp; The 13rd POMS-HK International Conference (POMS-HK 2023), Hong Kong SAR, China, 2023 Jan  
+  &nbsp; &nbsp; The 13th POMS-HK International Conference (POMS-HK 2023), Hong Kong SAR, China, 2023 Jan  
   
 
 -------------
@@ -44,7 +44,7 @@ nav_order: 3
 ### **Conference Papers**
 
 - **Exploiting Hidden Symmetry to Improve Objective Perturbation for DP Linear Learners with a Nonsmooth L1-Norm**       
-  &nbsp; &nbsp; Poster session at ICLR 2025, Singapore, 2025 April
+  &nbsp; &nbsp; Poster session at ICLR 2025, Singapore, 2025 Apr
 
 
 - **Noisy Dual Mirror Descent: A Near Optimal Algorithm for Jointly-DP Convex Resource Allocation**   
