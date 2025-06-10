@@ -54,6 +54,6 @@ I am also interested in applications of these methods in machine learning, reven
 ---------
 
 #### **News**  
-- **2025 June**, I will be presenting my work on _Joint Differential Privacy for Resource Allocation_ at EURO 2025 in Leeds and MSOM 2025 in London in late June. See you around in Leeds and London. 
+- **2025 June**, I will present my work on *Joint Differential Privacy for Resource Allocation* at EURO 2025 in Leeds and MSOM 2025 in London in late June. See you around in Leeds and London. 
 
 
