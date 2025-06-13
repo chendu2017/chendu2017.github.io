@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 -----------------
-#### **Nanyang Technological University**
+#### **Nanyang Technological University Singapore**
 
 ##### **Instructor**
   - **Statistics & Analysis**, BSc in Business, 2025 Spring  

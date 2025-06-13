@@ -46,9 +46,7 @@ Shanghai Jiao Tong University, where I was advised by Professor
 [Huan Zheng](http://www.acem.sjtu.edu.cn/en/faculty/zhenghuan.html).
 
 
-My research focuses on privacy-preserving analytics under the **differential privacy** framework.
-I aim to design privacy-aware optimization algorithms with provable performance guarantees to balance data privacy and utility.
-I am also interested in applications of these methods in machine learning, revenue management, and supply chain management.
+My research focuses on privacy-aware analytics within the framework of differential privacy. I am particularly interested in designing privacy-preserving optimization algorithms that enable the efficient use of data while rigorously protecting privacy, with a provable balance between data privacy and utility. I also explore applications of these methods in machine learning, revenue management, and supply chain management.
 
 
 ---------
