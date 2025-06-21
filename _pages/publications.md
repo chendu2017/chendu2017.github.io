@@ -13,7 +13,7 @@ nav_order: 2
 
 \* indicates corresponding author
 
-- **Joint Differential Privacy for Resource Allocation: Protection Capability, Price of Privacy, and Algorithm Design**   [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5112521)]   
+- **Joint Differential Privacy for Resource Allocation: Protection Capability, Price of Privacy, Algorithm Design, and Policy Implications**   [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5112521)]   
   **Du Chen**, Geoffrey A. Chua, Victor Richmond R. Jose\*    
 🏆 Winner: Singapore Rising Scholars Conference 2025 Best Paper Award
 
@@ -49,7 +49,7 @@ Publications prior to my Ph.D. can be found [here](https://chendu2017.github.io/
 
 ### **Research Grants**
 
-I have co-authored some research grant proposals on differential privacy-related topics
+I have drafted some research grant proposals on differential privacy-related topics
 
 - **Managing Data Security in Supply Chains: Algorithmic Approaches and Economic Implications**   
  PI: Geoffrey A. Chua   
