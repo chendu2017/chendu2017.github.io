@@ -11,14 +11,14 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "Research",
-          description: "Last Updated - 2025 Aug",
+          description: "Last Updated - 2025 August",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
           },
         },{id: "nav-talks",
           title: "Talks",
-          description: "Last Updated - 2025 Aug",
+          description: "Last Updated - 2025 August",
           section: "Navigation",
           handler: () => {
             window.location.href = "/talks/";
