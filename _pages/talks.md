@@ -2,7 +2,7 @@
 layout: page
 permalink: /talks/
 title: Talks
-description: Last Updated - 2025 Aug
+description: Last Updated - 2025 August
 nav: true
 nav_order: 3
 ---

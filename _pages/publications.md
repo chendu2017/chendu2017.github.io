@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-description: Last Updated - 2025 Aug
+description: Last Updated - 2025 August
 nav: true
 nav_order: 2
 ---
