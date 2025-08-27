@@ -30,7 +30,7 @@ Contact: <chen1443@e.ntu.edu.sg>, <chendu2017@sjtu.edu.cn>
 Address: ABS-04-037, 91 Nanyang Ave, Singapore 639956
 
 
-[[Google Scholar](https://scholar.google.com/citations?user=QBpHArYAAAAJ&hl=en)] [[LinkedIn](https://www.linkedin.com/in/du-chen-1157bb1b0/)] [[GitHub](https://github.com/chendu2017)] [[CV (PDF)](https://chendu2017.github.io/files/CV.pdf)]
+[[Google Scholar](https://scholar.google.com/citations?user=QBpHArYAAAAJ&hl=en)] [[LinkedIn](https://www.linkedin.com/in/du-chen-1157bb1b0/)] [[GitHub](https://github.com/chendu2017)] [[CV (PDF)](https://chendu2017.github.io/files/CV_DuCHEN.pdf)]
 
 
 ##### **<span style="color:#9B111E"> I am the 2025-2026 academic job market </span>**
