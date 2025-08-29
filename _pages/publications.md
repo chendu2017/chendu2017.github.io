@@ -30,12 +30,13 @@ Under 2nd-round review at _Management Science_
 ### **Publications** 
 
 
-- **Du Chen**\*, Geoffrey A. Chua. **Exploiting Hidden Symmetry to Improve Objective Perturbation for DP Linear Learners with a Nonsmooth L1-Norm**     [[Paper](https://openreview.net/forum?id=J863DxU7Sx)]      
+- **Du Chen**\*, Geoffrey A. Chua. **Exploiting Hidden Symmetry to Improve Objective Perturbation for DP Linear Learners with a Nonsmooth L1-Norm**     [[Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/f6712d5191d2501dfc7024389f7bfcdd-Abstract-Conference.html)]      
  _The Thirteenth International Conference on Learning Representations (ICLR 2025)_
 
 
-- **Du Chen**\*, Geoffrey A. Chua. **Noisy Dual Mirror Descent: A Near Optimal Algorithm for Jointly-DP Convex Resource Allocation**    [[Paper](https://openreview.net/forum?id=6ArNmbMpKF)]    
- _The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)_  
+- **Du Chen**\*, Geoffrey A. Chua. **Noisy Dual Mirror Descent: A Near Optimal Algorithm for Jointly-DP Convex Resource Allocation**    [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a6e1f6963f65bcc4854691a15460dbd8-Abstract-Conference.html)]    
+ _The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)_    
+
 
 - **Du Chen**\*, Geoffrey A. Chua. **Differentially Private Stochastic Convex Optimization under a Quantile Loss Function**    [[Paper](https://proceedings.mlr.press/v202/chen23d.html)]  
  _Proceedings of the 40th International Conference on Machine Learning (ICML 2023)_ 

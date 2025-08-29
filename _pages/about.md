@@ -33,8 +33,8 @@ Address: ABS-04-037, 91 Nanyang Ave, Singapore 639956
 [[Google Scholar](https://scholar.google.com/citations?user=QBpHArYAAAAJ&hl=en)] [[LinkedIn](https://www.linkedin.com/in/du-chen-1157bb1b0/)] [[GitHub](https://github.com/chendu2017)] [[CV (PDF)](https://chendu2017.github.io/files/CV_DuCHEN.pdf)]
 
 
-##### **<span style="color:#9B111E"> I am the 2025-2026 academic job market </span>**
-##### **<span style="color:#9B111E"> Looking for OM/OR/MS related tenure-track positions</span>**
+##### **<span style="color:#9B111E"> I am on the 2025-2026 academic job market </span>**
+##### **<span style="color:#9B111E"> Looking for tenure-track AP positions in OM/OR/MS  </span>**
 
 ----------
 
@@ -53,7 +53,9 @@ My research sits at the intersection of business operations and data privacy, ai
 ---------
 
 #### **News**  
-- **2025 October**, my coauthor and I be presenting two papers on online and offline privacy-aware resource allocation at INFORMS Annual Meeting 2025 in Atlanta, USA. **Session info: TE54, 4:15 PM and SB09, 11 AM**. Look forward to seeing you there!
+- **2025 October**, my coauthor and I will be presenting two papers at INFORMS Annual Meeting 2025 in Atlanta, USA. Look forward to seeing you there!
+  - _Joint Differential Privacy for Resource Allocation_, **Session SB09, 11 AM** (My JobMarket Showcase)
+  - _Privacy-Aware Online Allocation_, **Session TE54, 4:15 PM**    
 - **2025 June**, I will present my work on *Joint Differential Privacy for Resource Allocation* at EURO 2025 in Leeds and MSOM 2025 in London in late June. See you around in Leeds and London. 
 
 
