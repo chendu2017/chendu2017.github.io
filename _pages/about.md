@@ -34,16 +34,14 @@ Address: ABS-04-037, 91 Nanyang Ave, Singapore 639956
 
 
 ##### **<span style="color:#9B111E"> I am on the 2025-2026 academic job market </span>**
-##### **<span style="color:#9B111E"> Looking for tenure-track AP positions in OM/OR/MS  </span>**
+##### **<span style="color:#9B111E"> Seeking tenure-track AP positions in OM/OR/MS  or related fields </span>**
 
 ----------
 
 ###### **Welcome to my page!**      
-I am a fifth-year PhD student in Operations Management at Nanyang Business School, Nanyang Technological University Singapore. 
-It is my honor to work with Professor [Geoffrey A. Chua](https://dr.ntu.edu.sg/cris/rp/rp00581). 
-Prior to PhD, I worked as an Operations Research Algorithm Engineer at DAMO Academy, the research institute of Alibaba Group.
-I received my Master's degree in Management Science from Shanghai Jiao Tong University, where I was advised by Professor
-[Huan Zheng](http://www.acem.sjtu.edu.cn/en/faculty/zhenghuan.html).
+I am a fifth-year PhD candidate in Operations Management at Nanyang Business School, Nanyang Technological University Singapore, fortunate to work with Professor [Geoffrey A. Chua](https://dr.ntu.edu.sg/cris/rp/rp00581). 
+Prior to PhD, I was an Operations Research Algorithm Engineer at DAMO Academy, the research institute of Alibaba Group.
+I received my Master's degree in Management Science from Shanghai Jiao Tong University, where I had the privilege to be advised by Professor [Huan Zheng](http://www.acem.sjtu.edu.cn/en/faculty/zhenghuan.html).
 
 
 My research sits at the intersection of business operations and data privacy, aiming to combine decision-making with differential privacy to enable privacy-aware operations. I am particularly interested in designing optimization algorithms that simultaneously protect sensitive data and deliver high-quality decisions.
