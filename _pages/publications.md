@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-description: Last Updated - October 09, 2025
+description: Last Updated - October 14, 2025
 nav: true
 nav_order: 2
 ---
@@ -13,8 +13,8 @@ nav_order: 2
 
 \* corresponding author
 
-- **Du Chen**, Youhua (Frank) Chen*, Geoffrey A. Chua. **Design and Analysis of Algorithms for Privacy-Aware Online Allocation under Heterogeneous Privacy Expectations**         
- _In Final Preparation for Submission to **Operations Research**_. Preprint will be available before INFORMS.
+- **Du Chen**, Youhua (Frank) Chen*, Geoffrey A. Chua. **Design and Analysis of Algorithms for Privacy-Aware Online Allocation under Heterogeneous Privacy Expectations** [[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5602391)]         
+ _Under Review at **Operations Research**_
 
 
 - **Du Chen**, Geoffrey A. Chua, Victor Richmond R. Jose\*. **Joint Differential Privacy for Resource Allocation: Protection Capability, Price of Privacy, Algorithm Design, and Policy Implications**   [[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5112521)]   
