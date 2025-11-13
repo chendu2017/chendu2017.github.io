@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-description: Last Updated - October 14, 2025
+description: Last Updated - November 13, 2025
 nav: true
 nav_order: 2
 ---
@@ -18,17 +18,19 @@ nav_order: 2
 
 
 - **Du Chen**, Geoffrey A. Chua, Victor Richmond R. Jose\*. **Joint Differential Privacy for Resource Allocation: Protection Capability, Price of Privacy, Algorithm Design, and Policy Implications**   [[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5112521)]   
-  _Under 2nd-Round Review at **Management Science**_   
+  _In Preparation for Submission to **Operations Research**_  
 🏆 Winner: Singapore Rising Scholars Conference 2025 Best Paper Award   
 🏆 Awardee of the IFORS Travelling Fellowship at the APORS Youth Forum 2025
 
 
-- **Du Chen**, Geoffrey A. Chua\*. **An Algorithmic Approach to Managing Supply Chain Data Security: The Differentially Private Newsvendor**   [[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4654269)]       
-  _Under Minor Revision at **Operations Research**_ (Pending Code Submission)
+
 
 -------------
 
 ### **Publications** 
+
+- **Du Chen**, Geoffrey A. Chua\*. **An Algorithmic Approach to Managing Supply Chain Data Security: The Differentially Private Newsvendor**   [[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4654269)]       
+  _Accepted by **Operations Research**, 2025, forthcoming_  
 
 
 - **Du Chen**\*, Geoffrey A. Chua. **Exploiting Hidden Symmetry to Improve Objective Perturbation for DP Linear Learners with a Nonsmooth L1-Norm**     [[Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/f6712d5191d2501dfc7024389f7bfcdd-Abstract-Conference.html)]      
