@@ -26,7 +26,7 @@ latest_posts:
 Ph.D. Candidate in Operations Management    
 Nanyang Business School, Nanyang Technological University Singapore
 
-Contact: <chen1443@e.ntu.edu.sg>, <chendu2017@sjtu.edu.cn>    
+Contact: <chen1443@e.ntu.edu.sg>, <chendu2017@sjtu.edu.cn>   
 Address: ABS-04-037, 91 Nanyang Ave, Singapore 639956
 
 
