@@ -34,7 +34,7 @@ Address: ABS-04-037, 91 Nanyang Ave, Singapore 639956
 
 
 ##### **<span style="color:#9B111E"> I am on the 2025-2026 academic job market </span>**
-##### **<span style="color:#9B111E"> Seeking tenure-track AP positions in OM/OR/MS/CS/IE  or related fields </span>**
+##### **<span style="color:#9B111E"> Seeking tenure-track AP positions in OM/OR/MS  or related fields </span>**
 
 ----------
 
