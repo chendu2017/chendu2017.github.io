@@ -7,27 +7,12 @@ nav: true
 nav_order: 2
 ---
 
--------------
-
-### **Working Papers**
-
-\* corresponding author
-
-- **Du Chen**, Youhua (Frank) Chen*, Geoffrey A. Chua. **Design and Analysis of Algorithms for Privacy-Aware Online Allocation under Heterogeneous Privacy Expectations** [[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5602391)]         
- _Under Review at **Operations Research**_
-
-
-- **Du Chen**, Geoffrey A. Chua, Victor Richmond R. Jose\*. **Joint Differential Privacy for Resource Allocation: Protection Capability, Price of Privacy, Algorithm Design, and Policy Implications**   [[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5112521)]   
-  _In Preparation for Submission to **Operations Research**_  
-🏆 Winner: Singapore Rising Scholars Conference 2025 Best Paper Award   
-🏆 Awardee of the IFORS Travelling Fellowship at the APORS Youth Forum 2025
-
-
-
 
 -------------
 
 ### **Publications** 
+
+\* corresponding author
 
 - **Du Chen**, Geoffrey A. Chua\*. **An Algorithmic Approach to Managing Supply Chain Data Security: The Differentially Private Newsvendor**   [[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4654269)]       
   _Accepted by **Operations Research**, 2025, forthcoming_  
@@ -47,6 +32,19 @@ nav_order: 2
 Publications prior to my Ph.D. can be found [here](https://chendu2017.github.io/pub_before_phd/).
 
 
+-------------
+
+### **Working Papers**
+
+
+- **Du Chen**, Youhua (Frank) Chen*, Geoffrey A. Chua. **Design and Analysis of Algorithms for Privacy-Aware Online Allocation under Heterogeneous Privacy Expectations** [[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5602391)]         
+ _Under Review at **Operations Research**_
+
+
+- **Du Chen**, Geoffrey A. Chua, Victor Richmond R. Jose\*. **Joint Differential Privacy for Resource Allocation: Protection Capability, Price of Privacy, Algorithm Design, and Policy Implications**   [[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5112521)]   
+  _In Preparation for Submission to **Operations Research**_  
+🏆 Winner: Singapore Rising Scholars Conference 2025 Best Paper Award   
+🏆 Awardee of the IFORS Travelling Fellowship at the APORS Youth Forum 2025
 
 
 
