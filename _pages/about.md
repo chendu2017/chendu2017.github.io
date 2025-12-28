@@ -44,8 +44,8 @@ Prior to PhD, I was an Operations Research Algorithm Engineer at DAMO Academy, t
 I received my Master's degree in Management Science from Shanghai Jiao Tong University, where I had the privilege to be advised by Professor [Huan Zheng](http://www.acem.sjtu.edu.cn/en/faculty/zhenghuan.html).
 
 
-My research sits at the intersection of business operations and data privacy, aiming to combine decision-making with differential privacy to enable privacy-aware operations. I am particularly interested in designing optimization algorithms that simultaneously protect sensitive data and deliver high-quality decisions.
- I also investigate applications of these approaches in machine learning, revenue management, supply chains, and public policy.
+My research sits at the intersection of business operations and data privacy, aiming to combine decision-making with differential privacy to enable privacy-aware operations. I am particularly interested in designing optimization algorithms that protect sensitive data whiling delivering high-quality decisions.
+ I also explore applications of these approaches in machine learning, revenue management, supply chains, and public policy.
 
 
 ---------
