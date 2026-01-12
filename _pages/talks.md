@@ -2,7 +2,7 @@
 layout: page
 permalink: /talks/
 title: Talks
-description: Last Updated - 2025 August
+description: Last Updated - 2025 November
 nav: true
 nav_order: 3
 ---
@@ -13,12 +13,12 @@ nav_order: 3
 \# = delivered by coauthor
 
 - **Design and Analysis of Algorithms for Privacy-Aware Online Allocation under Heterogeneous Privacy Expectations**   
-   &nbsp; &nbsp; 2025-10 (scheduled),  2025 INFORMS Annual Meeting, Atlanta, USA  **(Session info: TE54, 4:15 PM)** 
+   &nbsp; &nbsp; 2025-10,  2025 INFORMS Annual Meeting, Atlanta, USA
 
 
 
 - **Joint Differential Privacy for Resource Allocation: Protection Capability, Price of Privacy, Algorithm Design, and Policy Implications**   
-  &nbsp; &nbsp; 2025-10 (scheduled), 2025 INFORMS Annual Meeting, Atlanta, USA  **(Session info: SB09, 11 AM)**    
+  &nbsp; &nbsp; 2025-10, 2025 INFORMS Annual Meeting, Atlanta, USA    
   &nbsp; &nbsp; 2025-07, 2025 INFORMS International Conference, Singapore   
   &nbsp; &nbsp; 2025-06, 2025 INFORMS MSOM Conference, London, UK      
   &nbsp; &nbsp; 2025-06, The 34th European Conference on Operational Research (EURO 2025), Leeds, UK       
@@ -29,6 +29,7 @@ nav_order: 3
 
 
 - **An Algorithmic Approach to Managing Supply Chain Data Security: The Differentially Private Newsvendor**    
+  &nbsp; &nbsp; 2026-01, Seminar at Tongji University, Shanghai, China   
   &nbsp; &nbsp; 2025-07, 2025 INFORMS International Conference, Singapore     
   &nbsp; &nbsp; 2024-09, Research Seminar at Singapore Management University (SMU), Singapore  (#)    
   &nbsp; &nbsp; 2024-09, Singapore Analytics and Operations Day, Singapore       

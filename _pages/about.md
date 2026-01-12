@@ -51,6 +51,7 @@ My research sits at the intersection of business operations and data privacy, ai
 ---------
 
 #### **News**  
+- **2025 November**, New Publication! Our manuscript _[An Algorithmic Approach to Managing Supply Chain Data Security: The Differentially Private Newsvendor](https://pubsonline.informs.org/doi/10.1287/opre.2024.1213)_ has been accepted by **Operations Research**!   
 - **2025 October**, my coauthor and I will be presenting two papers at INFORMS Annual Meeting 2025 in Atlanta, USA. Look forward to seeing you there!
   - _Joint Differential Privacy for Resource Allocation_, **Session SB09, 11 AM** (Job Market Showcase Session)
   - _Privacy-Aware Online Allocation_, **Session TE54, 4:15 PM**    
