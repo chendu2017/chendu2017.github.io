@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-description: Last Updated - November 13, 2025
+description: Last Updated - Feb 2026
 nav: true
 nav_order: 2
 ---
@@ -37,7 +37,7 @@ Publications prior to my Ph.D. can be found [here](https://chendu2017.github.io/
 
 
 - **Du Chen**, Youhua (Frank) Chen*, Geoffrey A. Chua. _Design and Analysis of Algorithms for Privacy-Aware Online Allocation under Heterogeneous Privacy Expectations_ [[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5602391)]      
- Under Review at **Operations Research**
+  -- Major Revision at **Operations Research**, Feb 2026
 
 
 - **Du Chen**, Geoffrey A. Chua, Victor Richmond R. Jose\*. _Joint Differential Privacy for Resource Allocation: Protection Capability, Price of Privacy, Algorithm Design, and Policy Implications_   [[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5112521)]      
